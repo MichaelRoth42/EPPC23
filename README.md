@@ -6,7 +6,7 @@ I have discussed some resources and excellent links in my session, so here is th
 Newsletter
 https://www.ppweekly.com/
 
-Security and governance considerations
+Security and governance considerations <br>
 https://learn.microsoft.com/en-us/power-platform/admin/governance-considerations
 
 Power Platform Governance Whitepaper
