@@ -1,5 +1,4 @@
-# Scottish Summit 23
-When you can read this, you may have seen my session "Become the best Power Platform Admin" at the Scottish Summit 2023 😎
+When you can read this, you may have seen my session "Become the best Power Platform Admin" at the EPPC 2023 😎
 
 I have discussed some resources and excellent links in my session, so here is the complete list. You can find the template for the governance document in the folder in this repository ✌️
 
